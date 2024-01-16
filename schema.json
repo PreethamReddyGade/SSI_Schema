@@ -1,7 +1,7 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://github.com/PreethamReddyGade/SSI_Schema/blob/main/schema.json"
+    "https://raw.githubusercontent.com/PreethamReddyGade/SSI_Schema/main/schema.json"
   ],
   "type": ["VerifiableCredential"],
   "issuer": "did:example:123",
